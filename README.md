@@ -1,7 +1,7 @@
 # 🤖 MOMO-ZEN — WhatsApp Bot
 
 <p align="center">
-  <img src="https://files.catbox.moe/zcg6kh.jpg" alt="MOMO-ZEN Banner" width="100%">
+  <img src="https://files.catbox.moe/ucj8pa.jpg" alt="MOMO-ZEN Banner" width="100%">
 </p>
 
 **MOMO-ZEN** is a WhatsApp bot built with **Node.js and Baileys**.  
@@ -61,7 +61,7 @@ Tutorials include:
 ## 📲 Official WhatsApp Channel
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029Vb6FFPM002T3SKA6bb2D" target="_blank">
+  <a href="https://whatsapp.com/channel/0029VbBaDRo9Bb61diUMZz1q" target="_blank">
     <button style="padding:12px 20px;font-size:16px;border:none;border-radius:8px;background:#25D366;color:white;cursor:pointer;">
       💬 Join WhatsApp Channel
     </button>
@@ -97,7 +97,7 @@ Creator of **MOMO-ZEN**
       📺 YouTube
     </button>
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb6FFPM002T3SKA6bb2D" target="_blank">
+  <a href="https://whatsapp.com/channel/0029VbBaDRo9Bb61diUMZz1q" target="_blank">
     <button style="padding:10px 18px;margin:5px;border:none;border-radius:8px;background:#25D366;color:white;">
       📲 WhatsApp Channel
     </button>
